@@ -134,11 +134,12 @@ xlabel("time"); ylabel("amplitude");
 ```
 
 ## TABULATION
-
+<img width="1188" height="900" alt="image" src="https://github.com/user-attachments/assets/e786ad09-3972-41ae-94f4-4fd6fe4725eb" />
 
 ## OUTPUT
 <img width="758" height="708" alt="image" src="https://github.com/user-attachments/assets/e012f2f4-f1c6-48ed-86ab-1cbd58fc32ce" />
 
 ## RESULT
+
 
 
